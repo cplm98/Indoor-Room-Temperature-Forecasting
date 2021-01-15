@@ -1,0 +1,1501 @@
+{"2020-08-02T00:00:00Z":{
+  "startTs": "2020-08-02T00:00:00Z",
+  "endTs": "2020-08-03T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-02T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-03T00:00:00Z":{
+  "startTs": "2020-08-03T00:00:00Z",
+  "endTs": "2020-08-04T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-03T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-04T00:00:00Z":{
+  "startTs": "2020-08-04T00:00:00Z",
+  "endTs": "2020-08-05T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-04T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-05T00:00:00Z":{
+  "startTs": "2020-08-05T00:00:00Z",
+  "endTs": "2020-08-06T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-05T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-06T00:00:00Z":{
+  "startTs": "2020-08-06T00:00:00Z",
+  "endTs": "2020-08-07T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-06T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-07T00:00:00Z":{
+  "startTs": "2020-08-07T00:00:00Z",
+  "endTs": "2020-08-08T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-07T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-08T00:00:00Z":{
+  "startTs": "2020-08-08T00:00:00Z",
+  "endTs": "2020-08-09T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-08T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-09T00:00:00Z":{
+  "startTs": "2020-08-09T00:00:00Z",
+  "endTs": "2020-08-10T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-09T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-10T00:00:00Z":{
+  "startTs": "2020-08-10T00:00:00Z",
+  "endTs": "2020-08-11T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-10T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-11T00:00:00Z":{
+  "startTs": "2020-08-11T00:00:00Z",
+  "endTs": "2020-08-12T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-11T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-12T00:00:00Z":{
+  "startTs": "2020-08-12T00:00:00Z",
+  "endTs": "2020-08-13T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-12T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-13T00:00:00Z":{
+  "startTs": "2020-08-13T00:00:00Z",
+  "endTs": "2020-08-14T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-13T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-14T00:00:00Z":{
+  "startTs": "2020-08-14T00:00:00Z",
+  "endTs": "2020-08-15T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-14T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-15T00:00:00Z":{
+  "startTs": "2020-08-15T00:00:00Z",
+  "endTs": "2020-08-16T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-15T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-16T00:00:00Z":{
+  "startTs": "2020-08-16T00:00:00Z",
+  "endTs": "2020-08-17T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-16T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-17T00:00:00Z":{
+  "startTs": "2020-08-17T00:00:00Z",
+  "endTs": "2020-08-18T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-17T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-18T00:00:00Z":{
+  "startTs": "2020-08-18T00:00:00Z",
+  "endTs": "2020-08-19T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-18T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-19T00:00:00Z":{
+  "startTs": "2020-08-19T00:00:00Z",
+  "endTs": "2020-08-20T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-19T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-20T00:00:00Z":{
+  "startTs": "2020-08-20T00:00:00Z",
+  "endTs": "2020-08-21T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-20T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-21T00:00:00Z":{
+  "startTs": "2020-08-21T00:00:00Z",
+  "endTs": "2020-08-22T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-21T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-22T00:00:00Z":{
+  "startTs": "2020-08-22T00:00:00Z",
+  "endTs": "2020-08-23T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-22T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-23T00:00:00Z":{
+  "startTs": "2020-08-23T00:00:00Z",
+  "endTs": "2020-08-24T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-23T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-24T00:00:00Z":{
+  "startTs": "2020-08-24T00:00:00Z",
+  "endTs": "2020-08-25T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-24T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-25T00:00:00Z":{
+  "startTs": "2020-08-25T00:00:00Z",
+  "endTs": "2020-08-26T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-25T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-26T00:00:00Z":{
+  "startTs": "2020-08-26T00:00:00Z",
+  "endTs": "2020-08-27T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-26T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-27T00:00:00Z":{
+  "startTs": "2020-08-27T00:00:00Z",
+  "endTs": "2020-08-28T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-27T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-28T00:00:00Z":{
+  "startTs": "2020-08-28T00:00:00Z",
+  "endTs": "2020-08-29T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-28T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-29T00:00:00Z":{
+  "startTs": "2020-08-29T00:00:00Z",
+  "endTs": "2020-08-30T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-29T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-30T00:00:00Z":{
+  "startTs": "2020-08-30T00:00:00Z",
+  "endTs": "2020-08-31T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-30T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+},"2020-08-31T00:00:00Z":{
+  "startTs": "2020-08-31T00:00:00Z",
+  "endTs": "2020-09-01T00:00:00Z",
+  "energyWinner": "UNKNOWN",
+  "energyLeaf": false,
+  "totalHeatingSeconds": 0,
+  "totalCoolingSeconds": 0,
+  "totalFanCoolingSeconds": 0,
+  "totalHumidifierSeconds": 0,
+  "totalDehumidifierSeconds": 0,
+  "recentAverageUsedSeconds": 0,
+  "secondsUsageOverAverage": 0,
+  "systemCapabilities": {
+    "hasStage1Cool": false,
+    "hasStage2Cool": false,
+    "hasStage3Cool": false,
+    "hasStage1Heat": true,
+    "hasStage2Heat": false,
+    "hasStage3Heat": false,
+    "hasStage1AlternateHeat": false,
+    "hasStage2AlternateHeat": false,
+    "hasHumidifier": false,
+    "hasDehumidifier": false,
+    "hasDualFuel": false,
+    "hasAuxHeat": false,
+    "hasEmergencyHeat": false,
+    "hasAirFilter": false,
+    "hasFossilFuel": false,
+    "hasHotWaterControl": false,
+    "hasHeatPump": false,
+    "hasFan": false
+  },
+  "cycles": [],
+  "cyclesIncomplete": false,
+  "events": [{
+    "startTs": "2020-08-31T00:00:00Z",
+    "timezoneOffset": 0,
+    "duration": "86400s",
+    "continuation": true,
+    "eventType": "EVENT_TYPE_OFF",
+    "off": {
+      "source": {
+        "touchedBy": "LEARNING",
+        "touchedWhere": "UNKNOWN_WHERE",
+        "userId": ""
+      }
+    }
+  }],
+  "eventsIncomplete": false,
+  "rates": []
+}}
