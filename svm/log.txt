@@ -1,0 +1,34 @@
+Descriptive Statistics per column
+
+AVG(TEMP)
+count    2698.000000
+mean       21.776412
+std         0.428782
+min        20.620000
+25%        21.690000
+50%        21.890000
+75%        22.040000
+max        22.850000
+Name: avg(temp), dtype: float64
+
+AVG(HUMIDITY)
+count    2698.000000
+mean       28.766691
+std         4.416951
+min        18.780000
+25%        25.500000
+50%        28.775000
+75%        31.983750
+max        40.170000
+Name: avg(humidity), dtype: float64
+
+TEMPERATURE
+count    2698.000000
+mean       -2.787187
+std         4.849882
+min       -16.140000
+25%        -5.970000
+50%        -2.355000
+75%         0.810000
+max         8.480000
+Name: temperature, dtype: float64
