@@ -84,45 +84,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 11:01 PM",
+      "plainText": "heating cycle from 10:05 PM to 12:00 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-03T00:00:00Z[UTC]",
-        "endTime": "2020-10-03T23:01:54Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-03T00:00:00Z",
-    "duration": "82914s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 11:31 PM to 12:00 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-03T23:31:53Z[UTC]",
+        "startTime": "2020-10-03T22:05:32Z[UTC]",
         "endTime": "2020-10-04T00:00:00Z[UTC]"
       }
     },
-    "startTs": "2020-10-03T23:31:53Z",
-    "duration": "1687s",
+    "startTs": "2020-10-03T22:05:32Z",
+    "duration": "6868s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -331,7 +301,7 @@
   }, {
     "startTs": "2020-10-03T22:15:33Z",
     "timezoneOffset": 0,
-    "duration": "2194s",
+    "duration": "487s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -353,9 +323,57 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-03T22:52:07Z",
+    "startTs": "2020-10-03T22:23:40Z",
     "timezoneOffset": 0,
-    "duration": "2670s",
+    "duration": "2294s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 20.782,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2020-10-03T22:06:26Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "ADHOC",
+      "touchedUserId": "",
+      "scheduledStart": 0,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-03T23:01:54Z",
+    "timezoneOffset": 0,
+    "duration": "907s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 20.782,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2020-10-03T22:06:26Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "ADHOC",
+      "touchedUserId": "",
+      "scheduledStart": 0,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-03T23:17:01Z",
+    "timezoneOffset": 0,
+    "duration": "1176s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -463,15 +481,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 9:50 AM",
+      "plainText": "heating cycle from 12:00 AM to 5:32 AM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-04T00:00:00Z[UTC]",
-        "endTime": "2020-10-04T09:50:38Z[UTC]"
+        "endTime": "2020-10-04T05:32:59Z[UTC]"
       }
     },
     "startTs": "2020-10-04T00:00:00Z",
-    "duration": "35438s",
+    "duration": "19979s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -493,45 +511,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 10:30 AM to 10:51 AM",
+      "plainText": "heating cycle from 10:30 AM to 5:52 PM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-04T10:30:11Z[UTC]",
-        "endTime": "2020-10-04T10:51:33Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-04T10:30:11Z",
-    "duration": "1282s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 5:00 PM to 5:52 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-04T17:00:00Z[UTC]",
         "endTime": "2020-10-04T17:52:14Z[UTC]"
       }
     },
-    "startTs": "2020-10-04T17:00:00Z",
-    "duration": "3134s",
+    "startTs": "2020-10-04T10:30:11Z",
+    "duration": "26523s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -584,32 +572,8 @@
   "events": [{
     "startTs": "2020-10-04T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "1018s",
+    "duration": "2590s",
     "continuation": true,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 20.782,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-03T22:06:26Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-04T00:16:58Z",
-    "timezoneOffset": 0,
-    "duration": "1572s",
-    "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
       "setPointType": "SET_POINT_TYPE_HEAT",
@@ -824,31 +788,7 @@
   }, {
     "startTs": "2020-10-04T03:30:00Z",
     "timezoneOffset": 0,
-    "duration": "1s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 84600,
-      "scheduledDay": 5,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-04T03:30:01Z",
-    "timezoneOffset": 0,
-    "duration": "1293s",
+    "duration": "1294s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -896,7 +836,7 @@
   }, {
     "startTs": "2020-10-04T04:00:13Z",
     "timezoneOffset": 0,
-    "duration": "12300s",
+    "duration": "1609s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -918,9 +858,129 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-04T07:25:13Z",
+    "startTs": "2020-10-04T04:27:02Z",
     "timezoneOffset": 0,
-    "duration": "13189s",
+    "duration": "2998s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T05:17:00Z",
+    "timezoneOffset": 0,
+    "duration": "6193s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T07:00:13Z",
+    "timezoneOffset": 0,
+    "duration": "3598s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T08:00:11Z",
+    "timezoneOffset": 0,
+    "duration": "2843s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T08:47:34Z",
+    "timezoneOffset": 0,
+    "duration": "7058s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T10:45:12Z",
+    "timezoneOffset": 0,
+    "duration": "1190s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -944,7 +1004,7 @@
   }, {
     "startTs": "2020-10-04T11:05:02Z",
     "timezoneOffset": 0,
-    "duration": "12275s",
+    "duration": "1481s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -966,9 +1026,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-04T14:29:37Z",
+    "startTs": "2020-10-04T11:29:43Z",
     "timezoneOffset": 0,
-    "duration": "8622s",
+    "duration": "1954s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -990,9 +1050,81 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-04T16:53:19Z",
+    "startTs": "2020-10-04T12:02:17Z",
     "timezoneOffset": 0,
-    "duration": "401s",
+    "duration": "5393s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T13:32:10Z",
+    "timezoneOffset": 0,
+    "duration": "4549s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T14:47:59Z",
+    "timezoneOffset": 0,
+    "duration": "2761s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T15:34:00Z",
+    "timezoneOffset": 0,
+    "duration": "5160s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1040,7 +1172,7 @@
   }, {
     "startTs": "2020-10-04T17:05:01Z",
     "timezoneOffset": 0,
-    "duration": "1114s",
+    "duration": "5347s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1062,33 +1194,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-04T17:23:35Z",
+    "startTs": "2020-10-04T18:34:08Z",
     "timezoneOffset": 0,
-    "duration": "2302s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2019-04-15T04:08:08Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 46800,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-04T18:01:57Z",
-    "timezoneOffset": 0,
-    "duration": "3245s",
+    "duration": "1314s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1112,7 +1220,31 @@
   }, {
     "startTs": "2020-10-04T18:56:02Z",
     "timezoneOffset": 0,
-    "duration": "3950s",
+    "duration": "694s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T19:07:36Z",
+    "timezoneOffset": 0,
+    "duration": "3256s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1136,7 +1268,7 @@
   }, {
     "startTs": "2020-10-04T20:01:52Z",
     "timezoneOffset": 0,
-    "duration": "3890s",
+    "duration": "4827s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1158,9 +1290,33 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-04T21:06:42Z",
+    "startTs": "2020-10-04T21:22:19Z",
     "timezoneOffset": 0,
-    "duration": "2773s",
+    "duration": "845s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T21:36:24Z",
+    "timezoneOffset": 0,
+    "duration": "991s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1208,7 +1364,7 @@
   }, {
     "startTs": "2020-10-04T22:09:10Z",
     "timezoneOffset": 0,
-    "duration": "6159s",
+    "duration": "1035s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1230,9 +1386,33 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-04T23:51:49Z",
+    "startTs": "2020-10-04T22:26:25Z",
     "timezoneOffset": 0,
-    "duration": "491s",
+    "duration": "917s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-04T22:41:42Z",
+    "timezoneOffset": 0,
+    "duration": "4698s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1292,15 +1472,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 1:01 AM to 8:05 PM",
+      "plainText": "heating cycle from 11:04 AM to 8:05 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-05T01:01:24Z[UTC]",
+        "startTime": "2020-10-05T11:04:59Z[UTC]",
         "endTime": "2020-10-05T20:05:52Z[UTC]"
       }
     },
-    "startTs": "2020-10-05T01:01:24Z",
-    "duration": "68668s",
+    "startTs": "2020-10-05T11:04:59Z",
+    "duration": "32453s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -1323,7 +1503,7 @@
   "events": [{
     "startTs": "2020-10-05T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "912s",
+    "duration": "2421s",
     "continuation": true,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1345,9 +1525,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-05T00:15:12Z",
+    "startTs": "2020-10-05T00:40:21Z",
     "timezoneOffset": 0,
-    "duration": "2773s",
+    "duration": "1264s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1371,7 +1551,31 @@
   }, {
     "startTs": "2020-10-05T01:01:25Z",
     "timezoneOffset": 0,
-    "duration": "2726s",
+    "duration": "1441s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-05T01:25:26Z",
+    "timezoneOffset": 0,
+    "duration": "1285s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1515,7 +1719,7 @@
   }, {
     "startTs": "2020-10-05T03:30:00Z",
     "timezoneOffset": 0,
-    "duration": "47679s",
+    "duration": "11044s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1537,9 +1741,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-05T16:44:39Z",
+    "startTs": "2020-10-05T06:34:04Z",
     "timezoneOffset": 0,
-    "duration": "7374s",
+    "duration": "7200s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1561,9 +1765,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-05T18:47:33Z",
+    "startTs": "2020-10-05T08:34:04Z",
     "timezoneOffset": 0,
-    "duration": "3225s",
+    "duration": "14040s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1585,9 +1789,33 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-05T19:41:18Z",
+    "startTs": "2020-10-05T12:28:04Z",
     "timezoneOffset": 0,
-    "duration": "1415s",
+    "duration": "18005s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-05T17:28:09Z",
+    "timezoneOffset": 0,
+    "duration": "9404s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1611,7 +1839,7 @@
   }, {
     "startTs": "2020-10-05T20:04:53Z",
     "timezoneOffset": 0,
-    "duration": "10637s",
+    "duration": "5220s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1633,9 +1861,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-05T23:02:10Z",
+    "startTs": "2020-10-05T21:31:53Z",
     "timezoneOffset": 0,
-    "duration": "3470s",
+    "duration": "8887s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1695,45 +1923,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 8:33 AM",
+      "plainText": "heating cycle from 3:41 AM to 4:10 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-06T00:00:00Z[UTC]",
-        "endTime": "2020-10-06T08:33:29Z[UTC]"
+        "startTime": "2020-10-06T03:41:18Z[UTC]",
+        "endTime": "2020-10-06T04:10:17Z[UTC]"
       }
     },
-    "startTs": "2020-10-06T00:00:00Z",
-    "duration": "30809s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 4:47 PM to 5:02 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-06T16:47:33Z[UTC]",
-        "endTime": "2020-10-06T17:02:34Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-06T16:47:33Z",
-    "duration": "901s",
+    "startTs": "2020-10-06T03:41:18Z",
+    "duration": "1739s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -1756,7 +1954,7 @@
   "events": [{
     "startTs": "2020-10-06T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "26426s",
+    "duration": "40322s",
     "continuation": true,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1778,9 +1976,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-06T07:20:26Z",
+    "startTs": "2020-10-06T11:12:02Z",
     "timezoneOffset": 0,
-    "duration": "59974s",
+    "duration": "46078s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -1840,15 +2038,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 8:47 AM to 11:20 AM",
+      "plainText": "heating cycle from 12:00 AM to 11:20 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-07T08:47:36Z[UTC]",
+        "startTime": "2020-10-07T00:00:00Z[UTC]",
         "endTime": "2020-10-07T11:20:45Z[UTC]"
       }
     },
-    "startTs": "2020-10-07T08:47:36Z",
-    "duration": "9189s",
+    "startTs": "2020-10-07T00:00:00Z",
+    "duration": "40845s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -1931,15 +2129,75 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 4:22 AM to 9:00 PM",
+      "plainText": "heating cycle from 4:22 AM to 12:55 PM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-08T04:22:11Z[UTC]",
-        "endTime": "2020-10-08T21:00:11Z[UTC]"
+        "endTime": "2020-10-08T12:55:46Z[UTC]"
       }
     },
     "startTs": "2020-10-08T04:22:11Z",
-    "duration": "59880s",
+    "duration": "30815s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 3:00 PM to 3:13 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-08T15:00:01Z[UTC]",
+        "endTime": "2020-10-08T15:13:39Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-08T15:00:01Z",
+    "duration": "818s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 8:47 PM to 9:00 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-08T20:47:36Z[UTC]",
+        "endTime": "2020-10-08T21:00:11Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-08T20:47:36Z",
+    "duration": "755s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -2052,15 +2310,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 4:19 AM",
+      "plainText": "heating cycle from 12:00 AM to 1:15 AM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-09T00:00:00Z[UTC]",
-        "endTime": "2020-10-09T04:19:53Z[UTC]"
+        "endTime": "2020-10-09T01:15:01Z[UTC]"
       }
     },
     "startTs": "2020-10-09T00:00:00Z",
-    "duration": "15593s",
+    "duration": "4501s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -2082,45 +2340,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 4:20 AM to 4:35 AM",
+      "plainText": "heating cycle from 5:40 AM to 5:25 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-09T04:20:37Z[UTC]",
-        "endTime": "2020-10-09T04:35:37Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-09T04:20:37Z",
-    "duration": "900s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 3:43 PM to 5:25 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-09T15:43:18Z[UTC]",
+        "startTime": "2020-10-09T05:40:28Z[UTC]",
         "endTime": "2020-10-09T17:25:14Z[UTC]"
       }
     },
-    "startTs": "2020-10-09T15:43:18Z",
-    "duration": "6116s",
+    "startTs": "2020-10-09T05:40:28Z",
+    "duration": "42286s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -2203,75 +2431,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:47 AM to 1:00 AM",
+      "plainText": "heating cycle from 4:31 AM to 10:16 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-10T00:47:36Z[UTC]",
-        "endTime": "2020-10-10T01:00:01Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-10T00:47:36Z",
-    "duration": "745s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 6:59 AM to 7:19 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-10T06:59:19Z[UTC]",
-        "endTime": "2020-10-10T07:19:19Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-10T06:59:19Z",
-    "duration": "1200s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 10:00 PM to 10:16 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-10T22:00:30Z[UTC]",
+        "startTime": "2020-10-10T04:31:36Z[UTC]",
         "endTime": "2020-10-10T22:16:31Z[UTC]"
       }
     },
-    "startTs": "2020-10-10T22:00:30Z",
-    "duration": "961s",
+    "startTs": "2020-10-10T04:31:36Z",
+    "duration": "63895s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -2354,6 +2522,36 @@
     "caption": {
       "locale": "en",
       "text": "",
+      "plainText": "heating cycle from 4:16 PM to 5:40 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-11T16:16:32Z[UTC]",
+        "endTime": "2020-10-11T17:40:08Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-11T16:16:32Z",
+    "duration": "5016s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
       "plainText": "heating cycle from 9:47 PM to 10:20 PM",
       "accessibleText": "",
       "parameters": {
@@ -2409,31 +2607,7 @@
   }, {
     "startTs": "2020-10-11T00:30:29Z",
     "timezoneOffset": 0,
-    "duration": "3s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-11T00:30:32Z",
-    "timezoneOffset": 0,
-    "duration": "1770s",
+    "duration": "1773s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2457,7 +2631,31 @@
   }, {
     "startTs": "2020-10-11T01:00:02Z",
     "timezoneOffset": 0,
-    "duration": "2854s",
+    "duration": "1827s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-11T01:30:29Z",
+    "timezoneOffset": 0,
+    "duration": "1027s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2625,7 +2823,31 @@
   }, {
     "startTs": "2020-10-11T03:30:01Z",
     "timezoneOffset": 0,
-    "duration": "1830s",
+    "duration": "1827s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-11T04:00:28Z",
+    "timezoneOffset": 0,
+    "duration": "3s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2649,7 +2871,7 @@
   }, {
     "startTs": "2020-10-11T04:00:31Z",
     "timezoneOffset": 0,
-    "duration": "1763s",
+    "duration": "10026s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2671,9 +2893,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T04:29:54Z",
+    "startTs": "2020-10-11T06:47:37Z",
     "timezoneOffset": 0,
-    "duration": "1064s",
+    "duration": "5607s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2695,9 +2917,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T04:47:38Z",
+    "startTs": "2020-10-11T08:21:04Z",
     "timezoneOffset": 0,
-    "duration": "2006s",
+    "duration": "3279s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2719,9 +2941,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T05:21:04Z",
+    "startTs": "2020-10-11T09:15:43Z",
     "timezoneOffset": 0,
-    "duration": "3599s",
+    "duration": "1227s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2743,9 +2965,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T06:21:03Z",
+    "startTs": "2020-10-11T09:36:10Z",
     "timezoneOffset": 0,
-    "duration": "5192s",
+    "duration": "2694s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2767,9 +2989,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T07:47:35Z",
+    "startTs": "2020-10-11T10:21:04Z",
     "timezoneOffset": 0,
-    "duration": "32256s",
+    "duration": "1593s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2791,9 +3013,81 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T16:45:11Z",
+    "startTs": "2020-10-11T10:47:37Z",
     "timezoneOffset": 0,
-    "duration": "889s",
+    "duration": "7972s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-11T13:00:29Z",
+    "timezoneOffset": 0,
+    "duration": "3815s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-11T14:04:04Z",
+    "timezoneOffset": 0,
+    "duration": "7947s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-11T16:16:31Z",
+    "timezoneOffset": 0,
+    "duration": "2609s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2865,7 +3159,7 @@
   }, {
     "startTs": "2020-10-11T17:36:10Z",
     "timezoneOffset": 0,
-    "duration": "1461s",
+    "duration": "8632s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2887,57 +3181,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-11T18:00:31Z",
+    "startTs": "2020-10-11T20:00:02Z",
     "timezoneOffset": 0,
-    "duration": "1800s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2019-04-15T04:08:08Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 46800,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-11T18:30:31Z",
-    "timezoneOffset": 0,
-    "duration": "1799s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2019-04-15T04:08:08Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 46800,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-11T19:00:30Z",
-    "timezoneOffset": 0,
-    "duration": "5399s",
+    "duration": "1827s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -2961,31 +3207,7 @@
   }, {
     "startTs": "2020-10-11T20:30:29Z",
     "timezoneOffset": 0,
-    "duration": "3039s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2019-04-15T04:08:08Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 46800,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-11T21:21:08Z",
-    "timezoneOffset": 0,
-    "duration": "3567s",
+    "duration": "6606s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3033,7 +3255,31 @@
   }, {
     "startTs": "2020-10-11T22:30:01Z",
     "timezoneOffset": 0,
-    "duration": "5399s",
+    "duration": "3068s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-11T23:21:09Z",
+    "timezoneOffset": 0,
+    "duration": "2331s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3093,75 +3339,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 1:00 PM",
+      "plainText": "heating cycle from 12:44 PM to 1:00 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-12T00:00:00Z[UTC]",
+        "startTime": "2020-10-12T12:44:14Z[UTC]",
         "endTime": "2020-10-12T13:00:13Z[UTC]"
       }
     },
-    "startTs": "2020-10-12T00:00:00Z",
-    "duration": "46813s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 3:44 PM to 4:08 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-12T15:44:47Z[UTC]",
-        "endTime": "2020-10-12T16:08:30Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-12T15:44:47Z",
-    "duration": "1423s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 8:30 PM to 8:51 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-12T20:30:32Z[UTC]",
-        "endTime": "2020-10-12T20:51:37Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-12T20:30:32Z",
-    "duration": "1265s",
+    "startTs": "2020-10-12T12:44:14Z",
+    "duration": "959s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -3256,7 +3442,79 @@
   }, {
     "startTs": "2020-10-12T00:50:37Z",
     "timezoneOffset": 0,
-    "duration": "5963s",
+    "duration": "1680s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T01:18:37Z",
+    "timezoneOffset": 0,
+    "duration": "1741s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T01:47:38Z",
+    "timezoneOffset": 0,
+    "duration": "2010s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T02:21:08Z",
+    "timezoneOffset": 0,
+    "duration": "532s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3280,7 +3538,55 @@
   }, {
     "startTs": "2020-10-12T02:30:00Z",
     "timezoneOffset": 0,
-    "duration": "3600s",
+    "duration": "23s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 19.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2019-02-25T00:41:25Z",
+      "touchedTimezoneOffset": -18000,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 81000,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T02:30:23Z",
+    "timezoneOffset": 0,
+    "duration": "1807s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 19.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2019-02-25T00:41:25Z",
+      "touchedTimezoneOffset": -18000,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 81000,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T03:00:30Z",
+    "timezoneOffset": 0,
+    "duration": "1770s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3352,7 +3658,55 @@
   }, {
     "startTs": "2020-10-12T04:29:55Z",
     "timezoneOffset": 0,
-    "duration": "29659s",
+    "duration": "16841s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T09:10:36Z",
+    "timezoneOffset": 0,
+    "duration": "11994s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T12:30:30Z",
+    "timezoneOffset": 0,
+    "duration": "824s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3376,7 +3730,103 @@
   }, {
     "startTs": "2020-10-12T12:44:14Z",
     "timezoneOffset": 0,
-    "duration": "40546s",
+    "duration": "6382s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T14:30:36Z",
+    "timezoneOffset": 0,
+    "duration": "1800s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T15:00:36Z",
+    "timezoneOffset": 0,
+    "duration": "8994s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T17:30:30Z",
+    "timezoneOffset": 0,
+    "duration": "14647s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-12T21:34:37Z",
+    "timezoneOffset": 0,
+    "duration": "8723s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3436,15 +3886,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 4:49 AM to 2:07 PM",
+      "plainText": "heating cycle from 12:00 AM to 2:07 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-13T04:49:12Z[UTC]",
+        "startTime": "2020-10-13T00:00:00Z[UTC]",
         "endTime": "2020-10-13T14:07:26Z[UTC]"
       }
     },
-    "startTs": "2020-10-13T04:49:12Z",
-    "duration": "33494s",
+    "startTs": "2020-10-13T00:00:00Z",
+    "duration": "50846s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -3497,7 +3947,7 @@
   "events": [{
     "startTs": "2020-10-13T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "16195s",
+    "duration": "46764s",
     "continuation": true,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3519,9 +3969,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-13T04:29:55Z",
+    "startTs": "2020-10-13T12:59:24Z",
     "timezoneOffset": 0,
-    "duration": "70205s",
+    "duration": "39636s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -3581,14 +4031,14 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 8:09 AM to 8:24 AM",
+      "plainText": "heating cycle from 6:16 AM to 6:31 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-14T08:09:46Z[UTC]",
-        "endTime": "2020-10-14T08:24:47Z[UTC]"
+        "startTime": "2020-10-14T06:16:12Z[UTC]",
+        "endTime": "2020-10-14T06:31:13Z[UTC]"
       }
     },
-    "startTs": "2020-10-14T08:09:46Z",
+    "startTs": "2020-10-14T06:16:12Z",
     "duration": "901s",
     "isComplete": true,
     "heat1": true,
@@ -3611,15 +4061,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 10:18 AM to 10:33 AM",
+      "plainText": "heating cycle from 2:13 PM to 2:40 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-14T10:18:43Z[UTC]",
-        "endTime": "2020-10-14T10:33:44Z[UTC]"
+        "startTime": "2020-10-14T14:13:53Z[UTC]",
+        "endTime": "2020-10-14T14:40:54Z[UTC]"
       }
     },
-    "startTs": "2020-10-14T10:18:43Z",
-    "duration": "901s",
+    "startTs": "2020-10-14T14:13:53Z",
+    "duration": "1621s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -3698,7 +4148,97 @@
     "hasHeatPump": false,
     "hasFan": false
   },
-  "cycles": [],
+  "cycles": [{
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 12:00 AM to 4:45 AM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-15T00:00:00Z[UTC]",
+        "endTime": "2020-10-15T04:45:50Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-15T00:00:00Z",
+    "duration": "17150s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 9:32 AM to 9:47 AM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-15T09:32:09Z[UTC]",
+        "endTime": "2020-10-15T09:47:10Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-15T09:32:09Z",
+    "duration": "901s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 3:38 PM to 3:53 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-15T15:38:19Z[UTC]",
+        "endTime": "2020-10-15T15:53:19Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-15T15:38:19Z",
+    "duration": "900s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }],
   "cyclesIncomplete": false,
   "events": [{
     "startTs": "2020-10-15T00:00:00Z",
@@ -3759,97 +4299,7 @@
     "hasHeatPump": false,
     "hasFan": false
   },
-  "cycles": [{
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 12:00 AM to 3:56 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-16T00:00:00Z[UTC]",
-        "endTime": "2020-10-16T03:56:25Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-16T00:00:00Z",
-    "duration": "14185s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 6:26 AM to 8:57 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-16T06:26:35Z[UTC]",
-        "endTime": "2020-10-16T08:57:41Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-16T06:26:35Z",
-    "duration": "9066s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 1:42 PM to 2:02 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-16T13:42:19Z[UTC]",
-        "endTime": "2020-10-16T14:02:27Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-16T13:42:19Z",
-    "duration": "1208s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }],
+  "cycles": [],
   "cyclesIncomplete": false,
   "events": [{
     "startTs": "2020-10-16T00:00:00Z",
@@ -3914,45 +4364,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 6:26 AM",
+      "plainText": "heating cycle from 12:00 AM to 10:28 AM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-17T00:00:00Z[UTC]",
-        "endTime": "2020-10-17T06:26:34Z[UTC]"
+        "endTime": "2020-10-17T10:28:35Z[UTC]"
       }
     },
     "startTs": "2020-10-17T00:00:00Z",
-    "duration": "23194s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 8:00 AM to 8:25 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-17T08:00:15Z[UTC]",
-        "endTime": "2020-10-17T08:25:52Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-17T08:00:15Z",
-    "duration": "1537s",
+    "duration": "37715s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -3983,6 +4403,36 @@
     },
     "startTs": "2020-10-17T11:49:12Z",
     "duration": "1781s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 7:27 PM to 7:40 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-17T19:27:50Z[UTC]",
+        "endTime": "2020-10-17T19:40:50Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-17T19:27:50Z",
+    "duration": "780s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -4065,15 +4515,45 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 9:14 PM",
+      "plainText": "heating cycle from 5:00 PM to 6:42 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-18T00:00:00Z[UTC]",
+        "startTime": "2020-10-18T17:00:00Z[UTC]",
+        "endTime": "2020-10-18T18:42:37Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-18T17:00:00Z",
+    "duration": "6157s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 8:46 PM to 9:14 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-18T20:46:04Z[UTC]",
         "endTime": "2020-10-18T21:14:02Z[UTC]"
       }
     },
-    "startTs": "2020-10-18T00:00:00Z",
-    "duration": "76442s",
+    "startTs": "2020-10-18T20:46:04Z",
+    "duration": "1678s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -4120,7 +4600,151 @@
   }, {
     "startTs": "2020-10-18T00:08:11Z",
     "timezoneOffset": 0,
-    "duration": "7282s",
+    "duration": "194s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T00:11:25Z",
+    "timezoneOffset": 0,
+    "duration": "911s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T00:26:36Z",
+    "timezoneOffset": 0,
+    "duration": "1560s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T00:52:36Z",
+    "timezoneOffset": 0,
+    "duration": "1341s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T01:14:57Z",
+    "timezoneOffset": 0,
+    "duration": "945s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T01:30:42Z",
+    "timezoneOffset": 0,
+    "duration": "888s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T01:45:30Z",
+    "timezoneOffset": 0,
+    "duration": "1443s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4192,7 +4816,55 @@
   }, {
     "startTs": "2020-10-18T02:40:02Z",
     "timezoneOffset": 0,
-    "duration": "2998s",
+    "duration": "1083s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 19.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-01T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 81000,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T02:58:05Z",
+    "timezoneOffset": 0,
+    "duration": "1914s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 19.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-01T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 81000,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T03:29:59Z",
+    "timezoneOffset": 0,
+    "duration": "1s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4240,7 +4912,367 @@
   }, {
     "startTs": "2020-10-18T03:58:05Z",
     "timezoneOffset": 0,
-    "duration": "46915s",
+    "duration": "730s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T04:10:15Z",
+    "timezoneOffset": 0,
+    "duration": "2753s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T04:56:08Z",
+    "timezoneOffset": 0,
+    "duration": "1826s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T05:26:34Z",
+    "timezoneOffset": 0,
+    "duration": "2368s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T06:06:02Z",
+    "timezoneOffset": 0,
+    "duration": "4561s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T07:22:03Z",
+    "timezoneOffset": 0,
+    "duration": "4952s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T08:44:35Z",
+    "timezoneOffset": 0,
+    "duration": "2519s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T09:26:34Z",
+    "timezoneOffset": 0,
+    "duration": "569s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T09:36:03Z",
+    "timezoneOffset": 0,
+    "duration": "1800s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T10:06:03Z",
+    "timezoneOffset": 0,
+    "duration": "1233s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T10:26:36Z",
+    "timezoneOffset": 0,
+    "duration": "2005s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T11:00:01Z",
+    "timezoneOffset": 0,
+    "duration": "1908s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T11:31:49Z",
+    "timezoneOffset": 0,
+    "duration": "1692s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T12:00:01Z",
+    "timezoneOffset": 0,
+    "duration": "574s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T12:09:35Z",
+    "timezoneOffset": 0,
+    "duration": "1334s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T12:31:49Z",
+    "timezoneOffset": 0,
+    "duration": "16091s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4288,7 +5320,199 @@
   }, {
     "startTs": "2020-10-18T17:01:27Z",
     "timezoneOffset": 0,
-    "duration": "14461s",
+    "duration": "462s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T17:09:09Z",
+    "timezoneOffset": 0,
+    "duration": "685s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T17:20:34Z",
+    "timezoneOffset": 0,
+    "duration": "2574s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T18:03:28Z",
+    "timezoneOffset": 0,
+    "duration": "1387s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T18:26:35Z",
+    "timezoneOffset": 0,
+    "duration": "962s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T18:42:37Z",
+    "timezoneOffset": 0,
+    "duration": "1323s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T19:04:40Z",
+    "timezoneOffset": 0,
+    "duration": "2977s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T19:54:17Z",
+    "timezoneOffset": 0,
+    "duration": "3288s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T20:49:05Z",
+    "timezoneOffset": 0,
+    "duration": "803s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4312,7 +5536,127 @@
   }, {
     "startTs": "2020-10-18T21:02:28Z",
     "timezoneOffset": 0,
-    "duration": "10652s",
+    "duration": "1209s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T21:22:37Z",
+    "timezoneOffset": 0,
+    "duration": "4706s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T22:41:03Z",
+    "timezoneOffset": 0,
+    "duration": "2023s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T23:14:46Z",
+    "timezoneOffset": 0,
+    "duration": "1207s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T23:34:53Z",
+    "timezoneOffset": 0,
+    "duration": "1237s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-18T23:55:30Z",
+    "timezoneOffset": 0,
+    "duration": "270s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4372,15 +5716,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 9:16 AM",
+      "plainText": "heating cycle from 12:00 AM to 4:51 PM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-19T00:00:00Z[UTC]",
-        "endTime": "2020-10-19T09:16:41Z[UTC]"
+        "endTime": "2020-10-19T16:51:32Z[UTC]"
       }
     },
     "startTs": "2020-10-19T00:00:00Z",
-    "duration": "33401s",
+    "duration": "60692s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -4402,15 +5746,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 9:26 PM to 9:47 PM",
+      "plainText": "heating cycle from 7:34 PM to 9:47 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-19T21:26:35Z[UTC]",
+        "startTime": "2020-10-19T19:34:16Z[UTC]",
         "endTime": "2020-10-19T21:47:04Z[UTC]"
       }
     },
-    "startTs": "2020-10-19T21:26:35Z",
-    "duration": "1229s",
+    "startTs": "2020-10-19T19:34:16Z",
+    "duration": "7968s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -4481,7 +5825,31 @@
   }, {
     "startTs": "2020-10-19T00:23:40Z",
     "timezoneOffset": 0,
-    "duration": "2746s",
+    "duration": "1238s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T00:44:18Z",
+    "timezoneOffset": 0,
+    "duration": "1508s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4601,7 +5969,31 @@
   }, {
     "startTs": "2020-10-19T02:30:00Z",
     "timezoneOffset": 0,
-    "duration": "2273s",
+    "duration": "443s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 19.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2019-02-25T00:41:25Z",
+      "touchedTimezoneOffset": -18000,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 81000,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T02:37:23Z",
+    "timezoneOffset": 0,
+    "duration": "1830s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4625,7 +6017,31 @@
   }, {
     "startTs": "2020-10-19T03:07:53Z",
     "timezoneOffset": 0,
-    "duration": "1327s",
+    "duration": "222s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 19.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2019-02-25T00:41:25Z",
+      "touchedTimezoneOffset": -18000,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 81000,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T03:11:35Z",
+    "timezoneOffset": 0,
+    "duration": "1105s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4649,7 +6065,7 @@
   }, {
     "startTs": "2020-10-19T03:30:00Z",
     "timezoneOffset": 0,
-    "duration": "3891s",
+    "duration": "8859s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4671,9 +6087,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-19T04:34:51Z",
+    "startTs": "2020-10-19T05:57:39Z",
     "timezoneOffset": 0,
-    "duration": "33322s",
+    "duration": "3306s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4695,9 +6111,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-19T13:50:13Z",
+    "startTs": "2020-10-19T06:52:45Z",
     "timezoneOffset": 0,
-    "duration": "5502s",
+    "duration": "7196s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4719,9 +6135,105 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-19T15:21:55Z",
+    "startTs": "2020-10-19T08:52:41Z",
     "timezoneOffset": 0,
-    "duration": "6266s",
+    "duration": "9137s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T11:24:58Z",
+    "timezoneOffset": 0,
+    "duration": "2799s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T12:11:37Z",
+    "timezoneOffset": 0,
+    "duration": "2661s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T12:55:58Z",
+    "timezoneOffset": 0,
+    "duration": "1721s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-19T13:24:39Z",
+    "timezoneOffset": 0,
+    "duration": "13302s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4745,7 +6257,7 @@
   }, {
     "startTs": "2020-10-19T17:06:21Z",
     "timezoneOffset": 0,
-    "duration": "2400s",
+    "duration": "13731s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4767,9 +6279,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-19T17:46:21Z",
+    "startTs": "2020-10-19T20:55:12Z",
     "timezoneOffset": 0,
-    "duration": "3510s",
+    "duration": "8483s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4791,33 +6303,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-19T18:44:51Z",
+    "startTs": "2020-10-19T23:16:35Z",
     "timezoneOffset": 0,
-    "duration": "11293s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 84600,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-19T21:53:04Z",
-    "timezoneOffset": 0,
-    "duration": "7616s",
+    "duration": "2605s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -4877,15 +6365,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 5:32 AM to 5:52 AM",
+      "plainText": "heating cycle from 12:00 AM to 3:20 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-20T05:32:09Z[UTC]",
-        "endTime": "2020-10-20T05:52:08Z[UTC]"
+        "startTime": "2020-10-20T00:00:00Z[UTC]",
+        "endTime": "2020-10-20T03:20:55Z[UTC]"
       }
     },
-    "startTs": "2020-10-20T05:32:09Z",
-    "duration": "1199s",
+    "startTs": "2020-10-20T00:00:00Z",
+    "duration": "12055s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -4907,104 +6395,14 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 7:17 AM to 7:33 AM",
+      "plainText": "heating cycle from 4:17 AM to 4:33 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-20T07:17:42Z[UTC]",
-        "endTime": "2020-10-20T07:33:42Z[UTC]"
+        "startTime": "2020-10-20T04:17:41Z[UTC]",
+        "endTime": "2020-10-20T04:33:41Z[UTC]"
       }
     },
-    "startTs": "2020-10-20T07:17:42Z",
-    "duration": "960s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 9:02 AM to 9:26 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-20T09:02:02Z[UTC]",
-        "endTime": "2020-10-20T09:26:12Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-20T09:02:02Z",
-    "duration": "1450s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 11:00 AM to 11:12 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-20T11:00:00Z[UTC]",
-        "endTime": "2020-10-20T11:12:32Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-20T11:00:00Z",
-    "duration": "752s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 9:51 PM to 10:07 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-20T21:51:35Z[UTC]",
-        "endTime": "2020-10-20T22:07:35Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-20T21:51:35Z",
+    "startTs": "2020-10-20T04:17:41Z",
     "duration": "960s",
     "isComplete": true,
     "heat1": true,
@@ -5058,7 +6456,7 @@
   "events": [{
     "startTs": "2020-10-20T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "17883s",
+    "duration": "37062s",
     "continuation": true,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -5080,9 +6478,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-20T04:58:03Z",
+    "startTs": "2020-10-20T10:17:42Z",
     "timezoneOffset": 0,
-    "duration": "68517s",
+    "duration": "49338s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -5138,97 +6536,7 @@
     "hasHeatPump": false,
     "hasFan": false
   },
-  "cycles": [{
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 4:09 AM to 9:44 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-21T04:09:28Z[UTC]",
-        "endTime": "2020-10-21T09:44:34Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-21T04:09:28Z",
-    "duration": "20106s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 1:29 PM to 1:44 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-21T13:29:58Z[UTC]",
-        "endTime": "2020-10-21T13:44:58Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-21T13:29:58Z",
-    "duration": "900s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 2:28 PM to 2:50 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-21T14:28:15Z[UTC]",
-        "endTime": "2020-10-21T14:50:15Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-21T14:28:15Z",
-    "duration": "1320s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }],
+  "cycles": [],
   "cyclesIncomplete": false,
   "events": [{
     "startTs": "2020-10-21T00:00:00Z",
@@ -5293,15 +6601,45 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 12:12 AM",
+      "plainText": "heating cycle from 12:00 AM to 5:41 AM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-22T00:00:00Z[UTC]",
-        "endTime": "2020-10-22T00:12:08Z[UTC]"
+        "endTime": "2020-10-22T05:41:54Z[UTC]"
       }
     },
     "startTs": "2020-10-22T00:00:00Z",
-    "duration": "728s",
+    "duration": "20514s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 9:36 PM to 9:52 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-22T21:36:52Z[UTC]",
+        "endTime": "2020-10-22T21:52:52Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-22T21:36:52Z",
+    "duration": "960s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -5384,45 +6722,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 7:37 AM",
+      "plainText": "heating cycle from 3:25 AM to 1:45 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-23T00:00:00Z[UTC]",
-        "endTime": "2020-10-23T07:37:15Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-23T00:00:00Z",
-    "duration": "27435s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 1:32 PM to 1:45 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-23T13:32:02Z[UTC]",
+        "startTime": "2020-10-23T03:25:29Z[UTC]",
         "endTime": "2020-10-23T13:45:18Z[UTC]"
       }
     },
-    "startTs": "2020-10-23T13:32:02Z",
-    "duration": "796s",
+    "startTs": "2020-10-23T03:25:29Z",
+    "duration": "37189s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -5502,36 +6810,6 @@
     "hasFan": false
   },
   "cycles": [{
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 10:12 AM to 10:28 AM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-24T10:12:09Z[UTC]",
-        "endTime": "2020-10-24T10:28:08Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-24T10:12:09Z",
-    "duration": "959s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
     "caption": {
       "locale": "en",
       "text": "",
@@ -5656,45 +6934,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 5:57 AM to 5:38 PM",
+      "plainText": "heating cycle from 12:00 AM to 9:06 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-25T05:57:19Z[UTC]",
-        "endTime": "2020-10-25T17:38:03Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-25T05:57:19Z",
-    "duration": "42044s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 8:51 PM to 9:06 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-25T20:51:19Z[UTC]",
+        "startTime": "2020-10-25T00:00:00Z[UTC]",
         "endTime": "2020-10-25T21:06:19Z[UTC]"
       }
     },
-    "startTs": "2020-10-25T20:51:19Z",
-    "duration": "900s",
+    "startTs": "2020-10-25T00:00:00Z",
+    "duration": "75979s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -5891,31 +7139,7 @@
   }, {
     "startTs": "2020-10-25T02:04:20Z",
     "timezoneOffset": 0,
-    "duration": "1335s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-25T02:26:35Z",
-    "timezoneOffset": 0,
-    "duration": "205s",
+    "duration": "1540s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6011,7 +7235,7 @@
   }, {
     "startTs": "2020-10-25T03:30:00Z",
     "timezoneOffset": 0,
-    "duration": "7040s",
+    "duration": "1981s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6033,9 +7257,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-25T05:27:20Z",
+    "startTs": "2020-10-25T04:03:01Z",
     "timezoneOffset": 0,
-    "duration": "31322s",
+    "duration": "1463s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6057,9 +7281,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-25T14:09:22Z",
+    "startTs": "2020-10-25T04:27:24Z",
     "timezoneOffset": 0,
-    "duration": "1783s",
+    "duration": "1796s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6081,9 +7305,177 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-25T14:39:05Z",
+    "startTs": "2020-10-25T04:57:20Z",
     "timezoneOffset": 0,
-    "duration": "534s",
+    "duration": "14406s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T08:57:26Z",
+    "timezoneOffset": 0,
+    "duration": "1057s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T09:15:03Z",
+    "timezoneOffset": 0,
+    "duration": "1629s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T09:42:12Z",
+    "timezoneOffset": 0,
+    "duration": "6008s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T11:22:20Z",
+    "timezoneOffset": 0,
+    "duration": "4078s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T12:30:18Z",
+    "timezoneOffset": 0,
+    "duration": "859s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T12:44:37Z",
+    "timezoneOffset": 0,
+    "duration": "1316s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 5,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T13:06:33Z",
+    "timezoneOffset": 0,
+    "duration": "6086s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6131,31 +7523,7 @@
   }, {
     "startTs": "2020-10-25T16:06:23Z",
     "timezoneOffset": 0,
-    "duration": "1990s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 84600,
-      "scheduledDay": 5,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-25T16:39:33Z",
-    "timezoneOffset": 0,
-    "duration": "1227s",
+    "duration": "3217s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6179,7 +7547,7 @@
   }, {
     "startTs": "2020-10-25T17:00:00Z",
     "timezoneOffset": 0,
-    "duration": "5655s",
+    "duration": "1031s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6201,9 +7569,81 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-25T18:34:15Z",
+    "startTs": "2020-10-25T17:17:11Z",
     "timezoneOffset": 0,
-    "duration": "4116s",
+    "duration": "496s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T17:25:27Z",
+    "timezoneOffset": 0,
+    "duration": "825s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T17:39:12Z",
+    "timezoneOffset": 0,
+    "duration": "4020s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T18:46:12Z",
+    "timezoneOffset": 0,
+    "duration": "3399s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6227,7 +7667,7 @@
   }, {
     "startTs": "2020-10-25T19:42:51Z",
     "timezoneOffset": 0,
-    "duration": "8283s",
+    "duration": "1413s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6249,9 +7689,81 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-25T22:00:54Z",
+    "startTs": "2020-10-25T20:06:24Z",
     "timezoneOffset": 0,
-    "duration": "6581s",
+    "duration": "1037s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T20:23:41Z",
+    "timezoneOffset": 0,
+    "duration": "1435s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T20:47:36Z",
+    "timezoneOffset": 0,
+    "duration": "1518s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2019-04-15T04:08:08Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 46800,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-25T21:12:54Z",
+    "timezoneOffset": 0,
+    "duration": "9461s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6335,165 +7847,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 10:48 AM to 11:14 AM",
+      "plainText": "heating cycle from 5:26 AM to 5:52 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-26T10:48:54Z[UTC]",
-        "endTime": "2020-10-26T11:14:54Z[UTC]"
+        "startTime": "2020-10-26T05:26:35Z[UTC]",
+        "endTime": "2020-10-26T05:52:35Z[UTC]"
       }
     },
-    "startTs": "2020-10-26T10:48:54Z",
+    "startTs": "2020-10-26T05:26:35Z",
     "duration": "1560s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 1:42 PM to 1:58 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-26T13:42:10Z[UTC]",
-        "endTime": "2020-10-26T13:58:10Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-26T13:42:10Z",
-    "duration": "960s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 4:57 PM to 5:14 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-26T16:57:37Z[UTC]",
-        "endTime": "2020-10-26T17:14:38Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-26T16:57:37Z",
-    "duration": "1021s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 5:32 PM to 5:47 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-26T17:32:09Z[UTC]",
-        "endTime": "2020-10-26T17:47:10Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-26T17:32:09Z",
-    "duration": "901s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 8:47 PM to 9:07 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-26T20:47:49Z[UTC]",
-        "endTime": "2020-10-26T21:07:50Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-26T20:47:49Z",
-    "duration": "1201s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 10:26 PM to 10:43 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-26T22:26:35Z[UTC]",
-        "endTime": "2020-10-26T22:43:01Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-26T22:26:35Z",
-    "duration": "986s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -6660,31 +8022,7 @@
   }, {
     "startTs": "2020-10-26T01:32:10Z",
     "timezoneOffset": 0,
-    "duration": "1528s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2019-04-15T04:08:08Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 46800,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-26T01:57:38Z",
-    "timezoneOffset": 0,
-    "duration": "1917s",
+    "duration": "3445s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6804,7 +8142,7 @@
   }, {
     "startTs": "2020-10-26T03:30:00Z",
     "timezoneOffset": 0,
-    "duration": "363s",
+    "duration": "6994s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6826,9 +8164,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-26T03:36:03Z",
+    "startTs": "2020-10-26T05:26:34Z",
     "timezoneOffset": 0,
-    "duration": "4201s",
+    "duration": "4770s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6850,9 +8188,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-26T04:46:04Z",
+    "startTs": "2020-10-26T06:46:04Z",
     "timezoneOffset": 0,
-    "duration": "30178s",
+    "duration": "15929s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6874,9 +8212,57 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-26T13:09:02Z",
+    "startTs": "2020-10-26T11:11:33Z",
     "timezoneOffset": 0,
-    "duration": "11145s",
+    "duration": "8958s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-26T13:40:51Z",
+    "timezoneOffset": 0,
+    "duration": "900s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 84600,
+      "scheduledDay": 6,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-26T13:55:51Z",
+    "timezoneOffset": 0,
+    "duration": "8336s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6900,7 +8286,7 @@
   }, {
     "startTs": "2020-10-26T16:14:47Z",
     "timezoneOffset": 0,
-    "duration": "2179s",
+    "duration": "5544s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6922,9 +8308,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-26T16:51:06Z",
+    "startTs": "2020-10-26T17:47:11Z",
     "timezoneOffset": 0,
-    "duration": "4523s",
+    "duration": "3105s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6946,9 +8332,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-26T18:06:29Z",
+    "startTs": "2020-10-26T18:38:56Z",
     "timezoneOffset": 0,
-    "duration": "2574s",
+    "duration": "11963s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -6970,81 +8356,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-26T18:49:23Z",
+    "startTs": "2020-10-26T21:58:19Z",
     "timezoneOffset": 0,
-    "duration": "3409s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 84600,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-26T19:46:12Z",
-    "timezoneOffset": 0,
-    "duration": "2508s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 84600,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-26T20:28:00Z",
-    "timezoneOffset": 0,
-    "duration": "1193s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 84600,
-      "scheduledDay": 6,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-26T20:47:53Z",
-    "timezoneOffset": 0,
-    "duration": "11527s",
+    "duration": "7301s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7104,105 +8418,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 2:14 PM to 2:34 PM",
+      "plainText": "heating cycle from 12:00 AM to 9:45 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-27T14:14:10Z[UTC]",
-        "endTime": "2020-10-27T14:34:10Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-27T14:14:10Z",
-    "duration": "1200s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 6:26 PM to 6:41 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-27T18:26:35Z[UTC]",
-        "endTime": "2020-10-27T18:41:35Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-27T18:26:35Z",
-    "duration": "900s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 7:19 PM to 7:27 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-27T19:19:44Z[UTC]",
-        "endTime": "2020-10-27T19:27:25Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-27T19:19:44Z",
-    "duration": "461s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 9:19 PM to 9:45 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-27T21:19:44Z[UTC]",
+        "startTime": "2020-10-27T00:00:00Z[UTC]",
         "endTime": "2020-10-27T21:45:45Z[UTC]"
       }
     },
-    "startTs": "2020-10-27T21:19:44Z",
-    "duration": "1561s",
+    "startTs": "2020-10-27T00:00:00Z",
+    "duration": "78345s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -7255,7 +8479,7 @@
   "events": [{
     "startTs": "2020-10-27T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "5530s",
+    "duration": "3601s",
     "continuation": true,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7277,9 +8501,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-27T01:32:10Z",
+    "startTs": "2020-10-27T01:00:01Z",
     "timezoneOffset": 0,
-    "duration": "7765s",
+    "duration": "11360s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7301,9 +8525,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-27T03:41:35Z",
+    "startTs": "2020-10-27T04:09:21Z",
     "timezoneOffset": 0,
-    "duration": "17282s",
+    "duration": "21801s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7325,9 +8549,33 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-27T08:29:37Z",
+    "startTs": "2020-10-27T10:12:42Z",
     "timezoneOffset": 0,
-    "duration": "7983s",
+    "duration": "356s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-27T10:18:38Z",
+    "timezoneOffset": 0,
+    "duration": "1442s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7351,7 +8599,7 @@
   }, {
     "startTs": "2020-10-27T10:42:40Z",
     "timezoneOffset": 0,
-    "duration": "30474s",
+    "duration": "1895s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7373,9 +8621,33 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-27T19:10:34Z",
+    "startTs": "2020-10-27T11:14:15Z",
     "timezoneOffset": 0,
-    "duration": "550s",
+    "duration": "7410s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 22.0,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LEARNING",
+      "touchedWhen": "2017-10-03T04:03:45Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "SCHEDULE",
+      "touchedUserId": "",
+      "scheduledStart": 72000,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
+    "startTs": "2020-10-27T13:17:45Z",
+    "timezoneOffset": 0,
+    "duration": "21719s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7423,7 +8695,7 @@
   }, {
     "startTs": "2020-10-27T19:19:45Z",
     "timezoneOffset": 0,
-    "duration": "266s",
+    "duration": "457s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7431,31 +8703,7 @@
       "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
       "preconditioning": false,
       "targets": {
-        "heatingTarget": 23.651,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-27T19:19:44Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-27T19:24:11Z",
-    "timezoneOffset": 0,
-    "duration": "191s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 24.344,
+        "heatingTarget": 23.83,
         "coolingTarget": 0.0
       },
       "touchedBy": "LOCAL",
@@ -7543,7 +8791,7 @@
   }, {
     "startTs": "2020-10-27T19:27:25Z",
     "timezoneOffset": 0,
-    "duration": "961s",
+    "duration": "1s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7565,9 +8813,33 @@
       "emergencyHeatActive": false
     }
   }, {
+    "startTs": "2020-10-27T19:27:26Z",
+    "timezoneOffset": 0,
+    "duration": "960s",
+    "continuation": false,
+    "eventType": "EVENT_TYPE_HEAT",
+    "setPoint": {
+      "setPointType": "SET_POINT_TYPE_HEAT",
+      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
+      "preconditioning": false,
+      "targets": {
+        "heatingTarget": 21.703,
+        "coolingTarget": 0.0
+      },
+      "touchedBy": "LOCAL",
+      "touchedWhen": "2020-10-27T19:27:25Z",
+      "touchedTimezoneOffset": -14400,
+      "touchedWhere": "ADHOC",
+      "touchedUserId": "",
+      "scheduledStart": 0,
+      "scheduledDay": 0,
+      "previousType": "EVENT_TYPE_UNKNOWN",
+      "emergencyHeatActive": false
+    }
+  }, {
     "startTs": "2020-10-27T19:43:26Z",
     "timezoneOffset": 0,
-    "duration": "9239s",
+    "duration": "2590s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7589,9 +8861,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-27T22:17:25Z",
+    "startTs": "2020-10-27T20:26:36Z",
     "timezoneOffset": 0,
-    "duration": "4807s",
+    "duration": "4850s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7613,9 +8885,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-27T23:37:32Z",
+    "startTs": "2020-10-27T21:47:26Z",
     "timezoneOffset": 0,
-    "duration": "1348s",
+    "duration": "7954s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -7731,96 +9003,6 @@
     "dehumidifier": false,
     "autoDehumdifier": false,
     "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 4:13 PM to 4:46 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-28T16:13:13Z[UTC]",
-        "endTime": "2020-10-28T16:46:04Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-28T16:13:13Z",
-    "duration": "1971s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 9:32 PM to 9:44 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-28T21:32:10Z[UTC]",
-        "endTime": "2020-10-28T21:44:55Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-28T21:32:10Z",
-    "duration": "765s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 11:41 PM to 11:57 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-28T23:41:41Z[UTC]",
-        "endTime": "2020-10-28T23:57:43Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-28T23:41:41Z",
-    "duration": "962s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
   }],
   "cyclesIncomplete": false,
   "events": [{
@@ -7907,6 +9089,96 @@
     "hasFan": false
   },
   "cycles": [{
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 12:00 AM to 4:35 AM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-29T00:00:00Z[UTC]",
+        "endTime": "2020-10-29T04:35:30Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-29T00:00:00Z",
+    "duration": "16530s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 5:46 AM to 6:02 AM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-29T05:46:52Z[UTC]",
+        "endTime": "2020-10-29T06:02:56Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-29T05:46:52Z",
+    "duration": "964s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 7:26 AM to 7:43 AM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-29T07:26:34Z[UTC]",
+        "endTime": "2020-10-29T07:43:30Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-29T07:26:34Z",
+    "duration": "1016s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
     "caption": {
       "locale": "en",
       "text": "",
@@ -8061,15 +9333,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 9:12 AM to 9:36 AM",
+      "plainText": "heating cycle from 9:12 AM to 1:41 PM",
       "accessibleText": "",
       "parameters": {
         "startTime": "2020-10-30T09:12:06Z[UTC]",
-        "endTime": "2020-10-30T09:36:18Z[UTC]"
+        "endTime": "2020-10-30T13:41:35Z[UTC]"
       }
     },
     "startTs": "2020-10-30T09:12:06Z",
-    "duration": "1452s",
+    "duration": "16169s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -8091,15 +9363,15 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 10:44 AM to 6:53 PM",
+      "plainText": "heating cycle from 6:38 PM to 6:53 PM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-30T10:44:11Z[UTC]",
+        "startTime": "2020-10-30T18:38:29Z[UTC]",
         "endTime": "2020-10-30T18:53:30Z[UTC]"
       }
     },
-    "startTs": "2020-10-30T10:44:11Z",
-    "duration": "29359s",
+    "startTs": "2020-10-30T18:38:29Z",
+    "duration": "901s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -8130,36 +9402,6 @@
     },
     "startTs": "2020-10-30T20:35:53Z",
     "duration": "1411s",
-    "isComplete": true,
-    "heat1": true,
-    "heat2": false,
-    "heat3": false,
-    "heatAux": false,
-    "altHeat": false,
-    "altHeat2": false,
-    "emergencyHeat": false,
-    "cool1": false,
-    "cool2": false,
-    "cool3": false,
-    "fan": false,
-    "fanCooling": false,
-    "humidifier": false,
-    "dehumidifier": false,
-    "autoDehumdifier": false,
-    "waterHeater": false
-  }, {
-    "caption": {
-      "locale": "en",
-      "text": "",
-      "plainText": "heating cycle from 10:15 PM to 10:30 PM",
-      "accessibleText": "",
-      "parameters": {
-        "startTime": "2020-10-30T22:15:33Z[UTC]",
-        "endTime": "2020-10-30T22:30:33Z[UTC]"
-      }
-    },
-    "startTs": "2020-10-30T22:15:33Z",
-    "duration": "900s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -8272,15 +9514,105 @@
     "caption": {
       "locale": "en",
       "text": "",
-      "plainText": "heating cycle from 12:00 AM to 5:00 PM",
+      "plainText": "heating cycle from 1:52 AM to 9:39 AM",
       "accessibleText": "",
       "parameters": {
-        "startTime": "2020-10-31T00:00:00Z[UTC]",
+        "startTime": "2020-10-31T01:52:33Z[UTC]",
+        "endTime": "2020-10-31T09:39:39Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-31T01:52:33Z",
+    "duration": "28026s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 11:15 AM to 11:45 AM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-31T11:15:35Z[UTC]",
+        "endTime": "2020-10-31T11:45:36Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-31T11:15:35Z",
+    "duration": "1801s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 1:44 PM to 1:59 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-31T13:44:19Z[UTC]",
+        "endTime": "2020-10-31T13:59:19Z[UTC]"
+      }
+    },
+    "startTs": "2020-10-31T13:44:19Z",
+    "duration": "900s",
+    "isComplete": true,
+    "heat1": true,
+    "heat2": false,
+    "heat3": false,
+    "heatAux": false,
+    "altHeat": false,
+    "altHeat2": false,
+    "emergencyHeat": false,
+    "cool1": false,
+    "cool2": false,
+    "cool3": false,
+    "fan": false,
+    "fanCooling": false,
+    "humidifier": false,
+    "dehumidifier": false,
+    "autoDehumdifier": false,
+    "waterHeater": false
+  }, {
+    "caption": {
+      "locale": "en",
+      "text": "",
+      "plainText": "heating cycle from 4:55 PM to 5:00 PM",
+      "accessibleText": "",
+      "parameters": {
+        "startTime": "2020-10-31T16:55:47Z[UTC]",
         "endTime": "2020-10-31T17:00:26Z[UTC]"
       }
     },
-    "startTs": "2020-10-31T00:00:00Z",
-    "duration": "61226s",
+    "startTs": "2020-10-31T16:55:47Z",
+    "duration": "279s",
     "isComplete": true,
     "heat1": true,
     "heat2": false,
@@ -8333,7 +9665,7 @@
   "events": [{
     "startTs": "2020-10-31T00:00:00Z",
     "timezoneOffset": 0,
-    "duration": "251s",
+    "duration": "4664s",
     "continuation": true,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8355,9 +9687,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T00:04:11Z",
+    "startTs": "2020-10-31T01:17:44Z",
     "timezoneOffset": 0,
-    "duration": "883s",
+    "duration": "7798s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8379,9 +9711,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T00:18:54Z",
+    "startTs": "2020-10-31T03:27:42Z",
     "timezoneOffset": 0,
-    "duration": "1081s",
+    "duration": "915s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8403,9 +9735,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T00:36:55Z",
+    "startTs": "2020-10-31T03:42:57Z",
     "timezoneOffset": 0,
-    "duration": "907s",
+    "duration": "12461s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8427,9 +9759,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T00:52:02Z",
+    "startTs": "2020-10-31T07:10:38Z",
     "timezoneOffset": 0,
-    "duration": "5499s",
+    "duration": "2575s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8451,9 +9783,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T02:23:41Z",
+    "startTs": "2020-10-31T07:53:33Z",
     "timezoneOffset": 0,
-    "duration": "1093s",
+    "duration": "3659s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8475,9 +9807,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T02:41:54Z",
+    "startTs": "2020-10-31T08:54:32Z",
     "timezoneOffset": 0,
-    "duration": "803s",
+    "duration": "968s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8499,273 +9831,9 @@
       "emergencyHeatActive": false
     }
   }, {
-    "startTs": "2020-10-31T02:55:17Z",
+    "startTs": "2020-10-31T09:10:40Z",
     "timezoneOffset": 0,
-    "duration": "768s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T03:08:05Z",
-    "timezoneOffset": 0,
-    "duration": "6388s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T04:54:33Z",
-    "timezoneOffset": 0,
-    "duration": "5762s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T06:30:35Z",
-    "timezoneOffset": 0,
-    "duration": "18001s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T11:30:36Z",
-    "timezoneOffset": 0,
-    "duration": "901s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T11:45:37Z",
-    "timezoneOffset": 0,
-    "duration": "3329s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T12:41:06Z",
-    "timezoneOffset": 0,
-    "duration": "1037s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T12:58:23Z",
-    "timezoneOffset": 0,
-    "duration": "1292s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T13:19:55Z",
-    "timezoneOffset": 0,
-    "duration": "1219s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T13:40:14Z",
-    "timezoneOffset": 0,
-    "duration": "593s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T13:50:07Z",
-    "timezoneOffset": 0,
-    "duration": "8431s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2017-10-03T04:03:45Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 72000,
-      "scheduledDay": 1,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T16:10:38Z",
-    "timezoneOffset": 0,
-    "duration": "2708s",
+    "duration": "27906s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8861,31 +9929,7 @@
   }, {
     "startTs": "2020-10-31T17:00:00Z",
     "timezoneOffset": 0,
-    "duration": "27s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 22.0,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LEARNING",
-      "touchedWhen": "2019-04-15T04:08:08Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "SCHEDULE",
-      "touchedUserId": "",
-      "scheduledStart": 46800,
-      "scheduledDay": 5,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T17:00:27Z",
-    "timezoneOffset": 0,
-    "duration": "85s",
+    "duration": "112s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8957,7 +10001,7 @@
   }, {
     "startTs": "2020-10-31T17:01:54Z",
     "timezoneOffset": 0,
-    "duration": "1s",
+    "duration": "2s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -8966,30 +10010,6 @@
       "preconditioning": false,
       "targets": {
         "heatingTarget": 21.988,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:01:54Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T17:01:55Z",
-    "timezoneOffset": 0,
-    "duration": "1s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.74,
         "coolingTarget": 0.0
       },
       "touchedBy": "LOCAL",
@@ -9077,31 +10097,7 @@
   }, {
     "startTs": "2020-10-31T17:06:11Z",
     "timezoneOffset": 0,
-    "duration": "1560s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T17:32:11Z",
-    "timezoneOffset": 0,
-    "duration": "1538s",
+    "duration": "3098s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -9149,31 +10145,7 @@
   }, {
     "startTs": "2020-10-31T18:26:36Z",
     "timezoneOffset": 0,
-    "duration": "2512s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T19:08:28Z",
-    "timezoneOffset": 0,
-    "duration": "2290s",
+    "duration": "4802s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -9197,79 +10169,7 @@
   }, {
     "startTs": "2020-10-31T19:46:38Z",
     "timezoneOffset": 0,
-    "duration": "1329s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T20:08:47Z",
-    "timezoneOffset": 0,
-    "duration": "1647s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T20:36:14Z",
-    "timezoneOffset": 0,
-    "duration": "1255s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T20:57:09Z",
-    "timezoneOffset": 0,
-    "duration": "1662s",
+    "duration": "5893s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -9293,31 +10193,7 @@
   }, {
     "startTs": "2020-10-31T21:24:51Z",
     "timezoneOffset": 0,
-    "duration": "524s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T21:33:35Z",
-    "timezoneOffset": 0,
-    "duration": "1366s",
+    "duration": "1890s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
@@ -9341,55 +10217,7 @@
   }, {
     "startTs": "2020-10-31T21:56:21Z",
     "timezoneOffset": 0,
-    "duration": "6662s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T23:47:23Z",
-    "timezoneOffset": 0,
-    "duration": "180s",
-    "continuation": false,
-    "eventType": "EVENT_TYPE_HEAT",
-    "setPoint": {
-      "setPointType": "SET_POINT_TYPE_HEAT",
-      "scheduleType": "SET_POINT_SCHEDULE_TYPE_HEAT",
-      "preconditioning": false,
-      "targets": {
-        "heatingTarget": 21.026,
-        "coolingTarget": 0.0
-      },
-      "touchedBy": "LOCAL",
-      "touchedWhen": "2020-10-31T17:02:10Z",
-      "touchedTimezoneOffset": -14400,
-      "touchedWhere": "ADHOC",
-      "touchedUserId": "",
-      "scheduledStart": 0,
-      "scheduledDay": 0,
-      "previousType": "EVENT_TYPE_UNKNOWN",
-      "emergencyHeatActive": false
-    }
-  }, {
-    "startTs": "2020-10-31T23:50:23Z",
-    "timezoneOffset": 0,
-    "duration": "577s",
+    "duration": "7419s",
     "continuation": false,
     "eventType": "EVENT_TYPE_HEAT",
     "setPoint": {
