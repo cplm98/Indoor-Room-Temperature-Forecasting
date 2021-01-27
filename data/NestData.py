@@ -5,7 +5,7 @@ import sys
 
 class NestData():
     def __init__(self, year):
-        self.base_dir = os.path.join("NEST", str(year))
+        self.base_dir = os.path.join("./data/NEST", str(year))
         valid_months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
         sensor_files = [] # list of files with sensor data
         summary_files = [] # list of files with cycle summary data
@@ -154,7 +154,7 @@ class NestData():
             else:
                 heating.append(0)
                 i += 1   
-                
+
         # Here are the column names for the data frame
         cycles_df = pd.DataFrame({'date_time': d_range, 'hvac_state': heating})
         cycles_df = cycles_df.set_index('date_time')
