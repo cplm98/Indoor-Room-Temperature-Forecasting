@@ -5,12 +5,22 @@ import dash_html_components as html
 import dash_core_components as dcc
 from dash.dependencies import Input, Output
 import pandas as pd
+import requests
+import sys
 # Data from NYC Open Data portal
 df = pd.read_csv('https://raw.githubusercontent.com/cplm98/Indoor-Room-Temperature-Forecasting/main/app/processed_data.csv')
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
+def get_forecast(start_date, end_date):
+    date_list = pd.date_range(pd.to_datetime(start_date), pd.to_datetime(end_date), freq='15T')
+    temps = []
+    for date in date_list:
+        r = requests.post('http://0.0.0.0:3000/predict', json={'time': str(date)})
+        print(r, file=sys.stderr)
+        temps.append(r)
+        
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app.layout = html.Div([
     dcc.DatePickerRange(
@@ -55,6 +65,7 @@ def update_output(start_date, end_date):
     #print("End date: " + end_date)
     dff = df.loc[(df['date_time'] >= start_date) & (df['date_time'] <= end_date)]
     fig = px.line(dff,x='date_time', y='internalTemperature')
+    get_forecast(start_date,end_date)
     return fig
 
 
