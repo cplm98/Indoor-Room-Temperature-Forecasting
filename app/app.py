@@ -3,9 +3,8 @@ import tensorflow as tf
 import pandas as pd
 import numpy as np
 import os
-from flask import Flask, request, Response, jsonify, send_from_directory, abort 
+from flask import Flask, request, Response, jsonify 
 import sys
-import json
 # get relative path
 path = os.getcwd()
 
@@ -47,11 +46,13 @@ def make_prediction():
         future_hour = prediction[0][3].round(2)
         print("Prediction made is: ", future_hour, " degrees Celsius!")
         response = {
-            'prediction': future_hour,
-            'temperatures': prior_temps
+            'prediction': str(future_hour),
+            'temperatures': str(prior_temps)
         }
-        print(response, file=sys.stderr)
-        return Response(response=response, status=200, mimetype='application/json')
+        #print(response, file=sys.stderr)
+        #print(type(response), file = sys.stderr)
+        #print(type(jsonify(response)), file = sys.stderr)
+        return Response(response=str(future_hour), status=200, mimetype='application/json')
     except:
         message = 'Error with app.'
         response = {
